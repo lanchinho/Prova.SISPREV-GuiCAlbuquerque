@@ -15,6 +15,8 @@ namespace SistemaCompra.Domain.Test.SolicitacaoCompraAggregate
             var solicitacao = new SolicitacaoCompra("rodrigoasth", "rodrigoasth");
             var itens = new List<Item>();
             var produto = new Produto("Cedro", "Transversal 3/3", Categoria.Madeira.ToString(), 1001);
+            produto.AtualizarPreco(1001);
+
             itens.Add(new Item(produto, 50));
 
             //Quando
