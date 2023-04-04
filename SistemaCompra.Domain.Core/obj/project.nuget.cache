@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GRwHZ4rvLo/TkJmDwfUS/fGgDorgaMJ366IR36coCM3EJHxp2+r3FIMrtm5qx8OIu7Sf9PCkVruITR0fVC5qsw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\magic\\Downloads\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\magic\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\magic\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\magic\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
